@@ -112,7 +112,6 @@ _COMANDOS DO DONO DO BOT_
    ┠➠ *${prefix}clearall* 
    ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Limpa os chats do bot.
    ╿𝘌𝘹𝘦𝘮𝘱𝘭𝘰: Digite ${prefix}clearall`
-
 }
 
 exports.help = help
