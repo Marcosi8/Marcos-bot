@@ -113,8 +113,8 @@ _COMANDOS DO DONO DO BOT_
    ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Limpa os chats do bot.
    ╿𝘌𝘹𝘦𝘮𝘱𝘭𝘰: Digite ${prefix}clearall`
 
-*Segue no ig:* @marcoskz_
-*Fale comigo!* ➠http://Wa.me/+558897165919
+By: Marcos Oliveira.
+*Fale comigo!* +558897165919
 }
 
 exports.help = help
