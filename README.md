@@ -7,8 +7,8 @@ INSTALAÇÃO:
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone 
-> cd dark-bot
+> git clone https://github.com/Marcosi8/Marcos-bot
+> cd Marcos-bot
 > bash install.sh
 > npm start
-> Basta escanear o código qr e ... pronto
+> Agora escaneia o qr code!
