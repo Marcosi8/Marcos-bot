@@ -577,7 +577,7 @@ async function starts() {
 				case 'clone':
 					if (!isGroup) return reply(mess.only.group)
 					if (!isGroupAdmins) return reply(mess.only.admin)
-					if (args.length < 1) return reply('Mencione o @ do usu¨¢rio que voc¨º deseja clonar')
+					if (args.length < 1) return reply('Mencione o @ do membro que voce deseja clonar')
 					if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('Tag cvk')
 					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid[0]
 					let { jid, id, notify } = groupMembers.find(x => x.jid === mentioned)
@@ -585,7 +585,7 @@ async function starts() {
 						pp = await client.getProfilePicture(id)
 						buffer = await getBuffer(pp)
 						client.updateProfilePicture(botNumber, buffer)
-						mentions(`Foto do perfil do bot atualizada com sucesso usando a do perfil do usu¨¢rio @${id.split('@')[0]}`, [jid], true)
+						mentions(`Foto de perfil do bot atualizada com sucesso! Agora estou usando a foto do @${id.split('@')[0]}`, [jid], true)
 					} catch (e) {
 						reply('falha :(')
 					}
