@@ -492,7 +492,7 @@ async function starts() {
 						reply('Falha ao adicionar membro! talvez o perfil seja privado')
 					}
 					break
-				case 'kick':
+				case 'jw':
 					if (!isGroup) return reply(mess.only.group)
 					if (!isGroupAdmins) return reply(mess.only.admin)
 					if (!isBotGroupAdmins) return reply(mess.only.Badmin)
