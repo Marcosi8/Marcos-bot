@@ -37,9 +37,9 @@ _NOTA_: Para executar esses comandos o bot precisa ser adm!
    ╿𝘌𝘹𝘦𝘮𝘱𝘭𝘰: Digite .${prefix}imih 1 para ativar e ${prefix}simih 0 para desativar!
 ( *OBS: O SIMI ESTÁ TOTALMENTE EM INDONÉSIO* )
 
-   ┠➠ *${prefix}kick*
-   ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Bane o usuário marcado no grupo!
-   ╿𝘌𝘹𝘦𝘮𝘱𝘭𝘰: Digite ${prefix}kick e o @ do usuário
+   ┠➠ *${prefix}bemvindo 1*
+   ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Ativa o saudações para novos membros! ${prefix}bemvindo 0 desativa.
+   ╿𝘌𝘹𝘦𝘮𝘱l𝘰: Digite ${prefix}bemvindo
 
    ┠➠ *${prefix}mencionar*
    ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Marca todos os membros do grupo, incluindo administradores!
@@ -60,10 +60,6 @@ _NOTA_: Para executar esses comandos o bot precisa ser adm!
    ┠➠ *${prefix}demote*
    ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Rebaixa adms
    ╿𝘌𝘹𝘦𝘮𝘱l𝘰: Digite ${prefix}demote e o @ do adm
-   
-   ┠➠ *${prefix}bemvindo 1*
-   ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Ativa o saudações para novos membros! ${prefix}bemvindo 0 desativa.
-   ╿𝘌𝘹𝘦𝘮𝘱l𝘰: Digite ${prefix}bemvindo
 
  ☾ 𝙾𝚄𝚃𝚁𝙾𝚂 𝙲𝙾𝙼𝙰ndos ☽
    
@@ -90,10 +86,6 @@ _NOTA_: Para executar esses comandos o bot precisa ser adm!
    ┠➠ *${prefix}url2img*
    ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Tira print de sites!
    ╿𝘌𝘹𝘦𝘮𝘱𝘭𝘰: Digite .url2img + tipo de print e o URL.
-
-   ┠➠ *${prefix}memeindo*
-   ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Gera meme ruim!
-   ╿𝘌𝘹𝘦𝘮𝘱𝘭𝘰: Digite .memeindo e te retorno um meme em indonésio.
 
 _COMANDOS DO DONO DO BOT_
 
