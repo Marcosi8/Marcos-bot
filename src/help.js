@@ -37,9 +37,9 @@ _NOTA_: Para executar esses comandos o bot precisa ser adm!
    ╿𝘌𝘹𝘦𝘮𝘱𝘭𝘰: Digite .${prefix}imih 1 para ativar e ${prefix}simih 0 para desativar!
 ( *OBS: O SIMI ESTÁ TOTALMENTE EM INDONÉSIO* )
 
-   ┠➠ *${prefix}linkgroup*
-   ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Gera o link do grupo!
-   ╿𝘌𝘹𝘦𝘮𝘱𝘭𝘰: Digite ${prefix}linkgroup é preciso adm de ambos!
+   ┠➠ *${prefix}kick*
+   ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Bane o usuário marcado no grupo!
+   ╿𝘌𝘹𝘦𝘮𝘱𝘭𝘰: Digite ${prefix}kick e o @ do usuário
 
    ┠➠ *${prefix}mencionar*
    ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Marca todos os membros do grupo, incluindo administradores!
