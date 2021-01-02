@@ -49,9 +49,9 @@ _NOTA_: Para executar esses comandos o bot precisa ser adm!
    ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Adiciona um novo membro.
    ╿𝘌𝘹𝘦𝘮𝘱l𝘰: Digite ${prefix}add e o número do membro com o código do país sem o +
    
-   ┠➠ *${prefix}kick*
-   ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Expulsa um membro! 
-   ╿𝘌𝘹𝘦𝘮𝘱l𝘰: Digite ${prefix}kick e o @ do membro
+   ┠➠ *${prefix}clone*
+   ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Pega a foto de perfil do usuário marcado e adiciona no bot! 
+   ╿𝘌𝘹𝘦𝘮𝘱l𝘰: Digite ${prefix}clone e o @ do membro
 
    ┠➠ *${prefix}promote*
    ╿𝘜𝘵𝘪𝘭𝘪𝘥𝘢𝘥𝘦: Promove um membro a adm
