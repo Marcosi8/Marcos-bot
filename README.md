@@ -16,6 +16,6 @@ Se você não tiver o APK Termux, baixe-o na Playstore entre no apk termux e dig
 
 > bash install.sh 
 
-> npm start Agora
+> npm start
 
- escaneia o qr code!
+ Agora escaneia o qr code!
